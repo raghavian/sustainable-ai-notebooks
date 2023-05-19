@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Sustainable AI'
+copyright = '2023, Raghavendra Selvan'
+author = 'Raghavendra Selvan'
 
 release = '0.1'
 version = '0.1.0'
