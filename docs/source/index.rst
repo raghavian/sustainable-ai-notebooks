@@ -1,4 +1,4 @@
-Welcome to Sustainable AI!
+Welcome to The Sustainable AI Project!
 ===================================
 
 This webpage will host the exercises for the upcoming Sustainable AI book. 
